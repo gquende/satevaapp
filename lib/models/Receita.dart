@@ -3,14 +3,8 @@ class Receita {
   String data;
 }
 
-
-
 class ReceitaModel {
-
- final String
-
-
-
-
-
+  final String tableName = 'receita';
+  final String colId = 'id';
+  final String colid = 'idUser';
 }

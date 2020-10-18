@@ -2,11 +2,8 @@ import 'package:sqflite/sqflite.dart';
 
 class DatabaseHelper {
 //  final String tableName = 'receita';
-  //final String colId = 'id';
+// final String colId = 'id';
 
-  Static DatabaseHelper _databaseHelper;
-  Static Database database;
-
-
-
+  static DatabaseHelper _databaseHelper;
+  static Database database;
 }

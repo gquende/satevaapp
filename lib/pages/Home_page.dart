@@ -58,28 +58,32 @@ class _HomeState extends State<Home> {
         selectedLabelStyle: TextStyle(color: ThemeColors.menuColorPrimary),
         items: [
           BottomNavigationBarItem(
-              icon: Icon(CupertinoIcons.person),
+              icon: Icon(Icons.dashboard),
               title: Text(
                 'Resumo',
               )),
           BottomNavigationBarItem(
-              icon: Icon(CupertinoIcons.person),
+              icon: Icon(Icons.trending_up),
               title: Text(
-                'Resumo',
+                'Estatistica',
               )),
           BottomNavigationBarItem(
-              icon: Icon(CupertinoIcons.person),
+              icon: Icon(Icons.credit_card),
               title: Text(
-                'Settings',
+                'Cartões',
                 //style: TextStyle(fontSize: 12),
               )),
           BottomNavigationBarItem(
-              icon: Icon(CupertinoIcons.car),
+              icon: Icon(Icons.flag),
               title: Text(
-                'Settings',
+                'Metas',
                 //style: TextStyle(fontSize: 12),
               )),
         ],
+      ),
+      floatingActionButton: FloatingActionButton(
+        backgroundColor: ThemeColors.menuColorPrimary,
+        child: Icon(Icons.add),
       ),
     );
   }
