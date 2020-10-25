@@ -2,8 +2,6 @@
 
 ![Preview-Screens](https://github.com/gquende/satevaapp/tree/master/screenshots/login.png)
 
-A new Flutter project.
-
 ## Sobre o este projecto
 
 A ideia desta aplicação é:
