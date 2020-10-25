@@ -1,6 +1,6 @@
 # Mobile
 
-![Preview-Screens](https://github.com/gquende/satevaapp/tree/master/screenshots/login.png)
+![Preview-Screens](https://github.com/gquende/satevaapp/blob/master/screenshots/login.png)
 
 ## Sobre o este projecto
 
