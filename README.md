@@ -1,4 +1,4 @@
-# Mobile
+# Sateva
 
 ![Preview-Screens](https://github.com/gquende/satevaapp/blob/master/screenshots/login.png) ![Pin Screen](https://github.com/gquende/satevaapp/blob/master/screenshots/pin.png) ![Home Screen](https://github.com/gquende/satevaapp/blob/master/screenshots/home.png)
 
@@ -14,9 +14,9 @@ _"Ajudar pessoas a controlarem melhor as suas finanças"._
 
 ## Instaladores
 
-# Android:
+Android:
 
-# IOS:
+IOS:
 
 ## Funcionalidades
 -
@@ -25,9 +25,9 @@ _"Ajudar pessoas a controlarem melhor as suas finanças"._
 -
 - 
 
-##Como contribuir: 
+## Como contribuir: 
 
-**Clone o repositório
+** Clone o repositório
 
 ```
 $ git clone https://github.com/gquende/satevaapp
