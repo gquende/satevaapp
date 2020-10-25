@@ -1,16 +1,38 @@
 # Mobile
 
+![Preview-Screens](https://github.com/gquende/satevaapp/tree/master/screenshot/login.png)
+
 A new Flutter project.
 
-## Getting Started
+## Sobre o este projecto
 
-This project is a starting point for a Flutter application.
+A ideia desta aplicação é:
 
-A few resources to get you started if this is your first Flutter project:
+_"Ajudar pessoas a controlarem melhor as suas finanças"._
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+##Algumas observações
+1- O utilizador consegue fazer criar conta e fazer login
+2- Controlo de receitas, despesas e dividas
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Instaladores
+
+#Android:
+
+#IOS:
+
+##Funcionalidades
+-
+-
+-
+-
+- 
+
+##Como contribuir: 
+
+**Clone o repositório
+
+```
+$ git clone https://github.com/gquende/satevaapp
+
+$ cd satevaapp
+```
