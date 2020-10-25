@@ -1,6 +1,7 @@
 # Mobile
 
-![Preview-Screens](https://github.com/gquende/satevaapp/blob/master/screenshots/login.png)
+![Preview-Screens](https://github.com/gquende/satevaapp/blob/master/screenshots/login.png) ![Pin Screen](https://github.com/gquende/satevaapp/blob/master/screenshots/pin.png)
+![Home Screen](https://github.com/gquende/satevaapp/blob/master/screenshots/home.png)
 
 ## Sobre o este projecto
 
